@@ -1,0 +1,4 @@
+dearpygui
+numpy
+pandas
+pyinstaller
